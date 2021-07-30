@@ -21,7 +21,7 @@ Virtual studio Code
 
 Download at https://code.visualstudio.com/download
 
-# Refrences
+# References
 
 Django Documentation: https://docs.djangoproject.com/
 
