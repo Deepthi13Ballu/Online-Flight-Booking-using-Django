@@ -1,4 +1,4 @@
-# Online-Flight-Booking-using-Django
+# Online-Flight-Ticket-Booking-using-Django
 Builded a website for Online Ticket Booking Services, where user can book multiple tickets for the Flights Available.
 Enduser can download the Eticket which will be generated after the payment.
 Used MVT Pattern.
