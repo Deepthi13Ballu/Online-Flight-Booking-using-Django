@@ -11,6 +11,25 @@ Frontend:HTML5,CSS,Bootstrap,JS
 
 Database:db.sqlite3
 
+# Django
+
+ Django installation command : python -m pip install Django
+ 
+# Tools used
+
+Virtual studio Code
+
+Download at https://code.visualstudio.com/download
+
+# Refrences
+
+Django Documentation: https://docs.djangoproject.com/
+
+Bootstrap Documentation: https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+and Stackoverflow : https://stackoverflow.com/
+
+
 # Final result
 
 ![3](https://user-images.githubusercontent.com/72663082/127614012-d97a9a45-1916-43dc-b622-fa7e766645ca.jpeg)
